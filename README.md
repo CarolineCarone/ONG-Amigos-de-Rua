@@ -77,9 +77,13 @@ Basta abrir o index.html no navegador.
 ### GitFlow e Versionamento
 
 O projeto utiliza a estratégia GitFlow, com as seguintes branches:
-•	main → versão estável
-•	develop → desenvolvimento contínuo
+
+•	main 
+
+•	develop 
+
 •	feature/
+
 •	release/
 
 ### Autora
