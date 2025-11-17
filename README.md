@@ -10,8 +10,6 @@ Website profissional desenvolvido para apresentar a ONG, seus projetos e facilit
 
 • Arquitetura do Projeto 
 
-•Como Executar o Projeto
-
 •GitFlow e Versionamento 
 
 •Autora
@@ -62,17 +60,6 @@ O projeto seguiu boas práticas de desenvolvimento web, GitFlow, versionamento s
  ├── imagens/
  
  └── README.md
-
-### Como Executar o Projeto 
-
-1.Copie o repositório
-https://github.com/SEU-USUARIO/ONG-Amigos-de-Rua.git
-
-2.Entre na pasta do projeto
-ONG-Amigos-de-Rua
-
-3.Abra o arquivo principal
-Basta abrir o index.html no navegador.
 
 ### GitFlow e Versionamento
 
