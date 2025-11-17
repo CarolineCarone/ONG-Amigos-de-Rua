@@ -12,6 +12,10 @@ Website profissional desenvolvido para apresentar a ONG, seus projetos e facilit
 
 •Como Executar o Projeto
 
+•GitFlow e Versionamento 
+
+•Autora
+
 -----------------
 
 ### Sobre o Projeto
@@ -67,14 +71,25 @@ https://github.com/SEU-USUARIO/ONG-Amigos-de-Rua.git
 2.Entre na pasta do projeto
 ONG-Amigos-de-Rua
 
-3. Abra o arquivo principal
+3.Abra o arquivo principal
 Basta abrir o index.html no navegador.
+
+### GitFlow e Versionamento
+
+O projeto utiliza a estratégia GitFlow, com as seguintes branches:
+•	main → versão estável
+•	develop → desenvolvimento contínuo
+•	feature/
+•	release/
 
 ### Autora
 
 Caroline Carone
+
 Veterinária 
+
 Estudante de Analise e Desenvolvimento de Sistemas
+
 Projeto realizado para fins de estudo e portfólio.
 
 
